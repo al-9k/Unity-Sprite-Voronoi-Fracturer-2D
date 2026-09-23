@@ -1,4 +1,6 @@
-![Preview](Docs/fracture_demo.gif)
+<p align="center">
+  <img src="Docs/fracture_demo.gif" alt="Preview" />
+</p>
 
 <h1 align="center">💥 Sprite Fracturer 2D (Voronoi Edition)</h1>
 
